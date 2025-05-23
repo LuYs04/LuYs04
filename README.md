@@ -8,8 +8,8 @@
 
 📫 Let's Connect!
 
-  📧 Email: lusineatshemyan5@gmail.com
-  💼 LinkedIn: linkedin.com/in/lusine-atshemyan-00114524a
+- 📧 Email: lusineatshemyan5@gmail.com
+- 💼 LinkedIn: linkedin.com/in/lusine-atshemyan-00114524a
 
 ---
 
