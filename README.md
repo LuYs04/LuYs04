@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lusine, NPUA and 42Yerevan student :)
-- 👀 I’m interested in AI(ML, NLP), Data Analysis  ... + photography, dance, music, filmmaking, handcrafts :D
+- 👀 I’m interested in AI(ML, NLP), Data Analytics  ... + photography, dance, music, filmmaking, handcrafts :D
 - 🌱 I’m currently learning C, C++, Python, SQL.
 - 📫 lusineatshemyan5@gmail.com
