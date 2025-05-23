@@ -2,3 +2,4 @@
 - 👀 I’m interested in AI(ML, NLP), Data Analytics  ... + photography, dance, music, filmmaking, handcrafts :D
 - 🌱 I’m currently learning C, C++, Python, SQL.
 - 📫 lusineatshemyan5@gmail.com
+- LINKEDIN: https://www.linkedin.com/in/lusine-atshemyan-00114524a/
