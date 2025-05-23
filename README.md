@@ -1,8 +1,15 @@
 # 🌟 Lusine Atshemyan
 
-🎓 **Student at NPUA & 42 Yerevan**  
+🎓 **Graduated NPUA & 42 Yerevan**  
 💡 Passionate about merging **AI** and **creativity**  
 📍 Based in Armenia | 🧠 Thinker | 💃 Dreamer | 🎬 Creator
+
+---
+
+📫 Let's Connect!
+
+  📧 Email: lusineatshemyan5@gmail.com
+  💼 LinkedIn: linkedin.com/in/lusine-atshemyan-00114524a
 
 ---
 
@@ -34,14 +41,9 @@ When I'm not coding, you'll find me:
 
 ### 🛠️ Tech Stack
 
-```c
 Languages:    C | C++ | Python | SQL
 AI/ML:        TensorFlow | NumPy | Pandas | Scikit-learn
 Web:          HTML/CSS (basics)
 Tools:        Git | GitHub | VSCode | Linux CLI
 
 
-📫 Let's Connect!
-
-📧 Email: lusineatshemyan5@gmail.com
-💼 LinkedIn: linkedin.com/in/lusine-atshemyan-00114524a
