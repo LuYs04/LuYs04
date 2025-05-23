@@ -41,7 +41,7 @@ When I'm not coding, you'll find me:
 
 ### 🛠️ Tech Stack
 
-Languages:    C | C++ | Python | SQL
+Languages:    C | C++ | Python | SQL \n
 AI/ML:        TensorFlow | NumPy | Pandas | Scikit-learn
 Web:          HTML/CSS (basics)
 Tools:        Git | GitHub | VSCode | Linux CLI
