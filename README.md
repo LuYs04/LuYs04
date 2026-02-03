@@ -1,6 +1,6 @@
 # 🌟 Lusine Atshemyan
 
-🎓 **Graduated NPUA & 42 Yerevan**  
+🎓 **Graduated NPUA, studied at 42 Yerevan**  
 💡 Passionate about merging **AI** and **creativity**  
 📍 Based in Armenia | 🧠 Thinker | 💃 Dreamer | 🎬 Creator
 
@@ -44,6 +44,6 @@ When I'm not coding, you'll find me:
 - Languages:    C | C++ | Python | SQL
 - AI/ML:        TensorFlow | NumPy | Pandas | Scikit-learn
 - Web:          HTML/CSS (basics)
-- Tools:        Git | GitHub | VSCode | Linux CLI
+- Tools:        Git | GitHub | VSCode | Linux CLI | PyCharm | Antigravity
 
 
