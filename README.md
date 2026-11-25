@@ -2,8 +2,6 @@
 
 # Hi, I'm Lusine Atshemyan 👋
 
-### *Curious mind. Clean logic. Smart solutions.*
-
 **Software & AI Engineer** | **MSc Double Degree in Informatics** | **Systems & Machine Learning**
 
 [![Location](https://img.shields.io/badge/Location-Bragança%2C%20Portugal-2e7d32?style=flat-square)](https://github.com/LuYs04)
